@@ -1,5 +1,7 @@
 ## Summary of Results and Findings
 
+**Data Source**: https://datasets.wri.org/datasets/global-power-plant-database 
+
 After cleaning and preparing the dataset, the analysis focused on three main areas: the capacity of power plants, the fuel types they use, and how they are distributed across the world.
 
 ### Most Power Plants Have Lower Capacities
